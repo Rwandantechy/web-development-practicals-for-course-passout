@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nova+Cut&display=swap');
+
+
+  *{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      }
+      body{
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+          color: white;
+          background-color: #8a9a5b;
+   }
+   a{
+     color: white; 
+    text-decoration: none; 
+  }

@@ -1,0 +1,43 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+
+  *{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      }
+      body{
+                 
+          color: white;
+          background-color: #8a9a5b;
+   }
+   a{
+     color: white; 
+    text-decoration: none; 
+  }
+  .intro-card{
+    background-color: #96a36e;  
+    margin: 4rem !important;
+  }
+  .left-section{
+
+ background-color:#aeb98e ;
+  }
+  .contact-section-org{
+  width: 90%;
+  margin: 4rem !important;
+  }
+  .issue{
+  background-color:#bfc8a6;
+  }
+  .image{
+/* Ellipse 2 */
+box-sizing: border-box;
+object-fit: scale-down;
+
+  }
+  .my-btn{
+    background-color: orange;
+    text-align: center;
+  }
